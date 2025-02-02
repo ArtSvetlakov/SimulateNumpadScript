@@ -1,4 +1,5 @@
 ﻿#Requires AutoHotkey v2.0
+#UseHook
 !0::Numpad0
 !1::Numpad1
 !2::Numpad2
@@ -14,8 +15,8 @@
 !+::NumpadAdd
 !-::NumpadSub
 !.::NumpadDot
-$!Enter::NumpadEnter
-$!Left::Numpad4
-$!Right::Numpad6
-$!Up::Numpad8
-$!Down::Numpad2
+!Enter::NumpadEnter
+!Left::Numpad4
+!Right::Numpad6
+!Up::Numpad8
+!Down::Numpad2
